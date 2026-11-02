@@ -29,7 +29,7 @@ window.CONFIG = {
   happyCustomers: 0,
 
   // Your live site address (no trailing slash). Used in the review link sent to customers.
-  siteUrl: 'https://yourdomain.com',
+  siteUrl: 'https://podenapata-sys.github.io/jaynamaz-shop',
 
   // Reviews come in automatically: customers with a DELIVERED order review via review.html,
   // you approve them in admin.html, and they appear in the slider. Nothing to type here.
