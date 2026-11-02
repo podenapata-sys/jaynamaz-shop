@@ -7,8 +7,8 @@ window.CONFIG = {
   brand: '[BRAND NAME]',
 
   // Contact
-  phone: '01XXXXXXXXX',               // shown in footer, used for tel: links
-  whatsapp: '8801XXXXXXXXX',          // international format, no "+" or spaces
+  phone: '01632932249',               // shown in footer, used for tel: links
+  whatsapp: '8801632932249',          // international format, no "+" or spaces
   facebookPage: 'https://facebook.com/YOUR_PAGE',
 
   // Payment: outside Dhaka needs an advance via bKash (Send Money)
